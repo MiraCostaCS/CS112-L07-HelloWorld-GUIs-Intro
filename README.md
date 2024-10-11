@@ -17,7 +17,8 @@ fundamentals of GUI development through learning the JavaFX library.
 
 ## To-Dos
 
-1. Copy+paste the code from OLI for the Hello World GUI project
+0. Setup IntelliJ (BIG Step! follow instructions on Canvas)
+1. Clone project
 2. Change the code so that it prints "Hello CS112" to the console when the button is pressed
 3. Change the windows title to your group number and name
 4. Change the code so that when the button is pressed, the `Label` element says `Hi #i, User!` where `i` is the actual #
